@@ -318,4 +318,5 @@ body {
 .link-card:nth-child(4) { animation-delay: 0.25s; }
 .link-card:nth-child(5) { animation-delay: 0.3s; }
 .link-card:nth-child(6) { animation-delay: 0.35s; }
-.footer { animation-delay: 0.4s; }
+.link-card:nth-child(7) { animation-delay: 0.4s; }
+.footer { animation-delay: 0.45s; }
